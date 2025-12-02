@@ -3,19 +3,12 @@
 Este projeto implementa uma versão totalmente funcional do clássico jogo Batalha Naval em linguagem C, utilizando conceitos fundamentais como:
 
 - Estruturas (struct)
-
 - Ponteiros
-
 - Alocação dinâmica de memória
-
 - Múltiplos arquivos (.h e .c)
-
 - Enums
-
 - Modularização do código
-
 - Validação de entrada
-
 - Tabuleiros independentes para navios e tiros
 
 O jogo é jogado entre dois jogadores , com posicionamento automático dos navios.
